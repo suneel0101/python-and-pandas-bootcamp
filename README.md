@@ -547,6 +547,9 @@ Pull up the pandas DataFrame `describe` documentation.
 5. What is the most popular category of company?
 
 ## Practice on revenue schedules data
+
+Notes: df.dtypes; Parsing datetimes
+
 1. How much money won YTD? lost?
 2. What's the close rate by Account Owner?
 3. What's the total number of accounts broken down by Account Owner
