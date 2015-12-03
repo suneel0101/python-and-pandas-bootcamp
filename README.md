@@ -532,20 +532,25 @@ Let's look at [this dataset](https://raw.githubusercontent.com/suneel0101/lesson
 Pull up the pandas DataFrame `describe` documentation.
 
 ## Exercises (200)
-
 1. Construct a pivot table that indexes on region and shows the total funding amounts by region
 2. What is the average number of funding rounds for companies in NYC? How does that compare to SF?
 3. What are the top 3 markets with the highest average funding total per company?
 4. How many companies have Games as a category? What's their average funding total? Using a pivot table, what's the average funding total of those companies that have Games as a category, broken down by Region?
 5. What is the most popular category of company?
 
+## Practice on revenue schedules data
+1. How much money won YTD? lost?
+2. What's the close rate by Account Owner?
+3. What's the total number of accounts broken down by Account Owner
+4. What's the average opportunity amount per closed account broken down by Account Owner
+5. Create a pivot table indexing on Account Name that shows the total amount in each stage, YTD and then separately since the beginning of the data set
+
+## Practice on leads data
+1. What pivot tables would you care about? Create them.
+2. What are the top original referrer domains of leads that have converted in 2015?
+
 # Sharing Our Analysis
 1. Download the iPython notebook
 2. Paste it into a [GitHub gist](http://gist.github.com)
 3. Copy the URL of the gist and paste it [here](http://nbviewer.ipython.org)
 4. Voilà, now you have a shareable analysis!
-
-# Next Steps
-To continue your Python/Pandas/Data Science education, recommend the following:
-- [pandas tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-- [GA's part-time data science course](https://generalassemb.ly/education/data-science)
