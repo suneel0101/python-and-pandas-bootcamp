@@ -475,8 +475,11 @@ Let's take a look at the documentation [here](http://pandas.pydata.org/pandas-do
 (Creative) Exercise: with a partner, use pivot tables to play around with the data. What pivots do you find particularly interesting or useful for this dataset?
 
 ## Plots from the dataframe
-1. Let's pivot and sum it up
+Let's see documentation on DataFrame.plot
+
+1. Let's pivot and sum up Amount by Account Name
 2. Reset index so we get a normal pivot table again
+3. Make a clean bar chart.
 
 
 # More Pandas (120)
