@@ -474,6 +474,11 @@ Let's take a look at the documentation [here](http://pandas.pydata.org/pandas-do
 
 (Creative) Exercise: with a partner, use pivot tables to play around with the data. What pivots do you find particularly interesting or useful for this dataset?
 
+## Plots from the dataframe
+1. Let's pivot and sum it up
+2. Reset index so we get a normal pivot table again
+
+
 # More Pandas (120)
 Let's expand our Pandas knowledge and practice it with another dataset.
 
@@ -544,6 +549,7 @@ Pull up the pandas DataFrame `describe` documentation.
 3. What's the total number of accounts broken down by Account Owner
 4. What's the average opportunity amount per closed account broken down by Account Owner
 5. Create a pivot table indexing on Account Name that shows the total amount in each stage, YTD and then separately since the beginning of the data set
+6. What plots would be useful?
 
 ## Practice on leads data
 1. What pivot tables would you care about? Create them.
